@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lessonNumber" type="id"/>
+    <item name="lessonTime" type="id"/>
+    <item name="lessonInfo" type="id"/>
+    <item name="pairedLessonInfo" type="id"/>
+</resources>

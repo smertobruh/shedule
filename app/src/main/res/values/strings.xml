@@ -1,0 +1,23 @@
+<resources>
+    <string name="App_name">Расписание</string>
+    <string name="Schedule">Расписание</string>
+    <string name="VISION">VISION</string>
+    <string name="Hello">Здравствуйте!</string>
+    <string name="Input1">Введите ссылку на свое\nрасписание</string>
+    <string name="Resume">Продолжить</string>
+    <string name="Input">     ВВЕДИТЕ ССЫЛКУ</string>
+    <string name="Week">Неделя 1</string>
+    <string name="Settings">Нaстройки</string>
+    <string name="Topics">Системная тема</string>
+    <string name="Notifications">Уведомления</string>
+    <string name="Support">Подержка</string>
+    <string name="Info">Предмет\nПреподаватель\nКабинет</string>
+    <string name="lesson0">8:00-9:45</string>
+    <string name="lesson1">9:45-11:20</string>
+    <string name="lesson2">11:30-13:05</string>
+    <string name="lesson3">13:30-15:05</string>
+    <string name="lesson4">15:15-16:50</string>
+    <string name="lesson5">17:00-18:35</string>
+    <string name="lesson6">18:45-20:15</string>
+    <string name="lesson7">20:25-21:55</string>
+</resources>

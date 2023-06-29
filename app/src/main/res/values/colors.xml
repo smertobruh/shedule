@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black300">#0A101A</color>
+    <color name="white100">#94A2BB</color>
+    <color name="inputbackground">#B7B2B2</color>
+    <color name="input">#6D6B6F</color>
+    <color name="resumebackground">#999595</color>
+    <color name="resume">#4D4A4A</color>
+    <color name="green300">#2F9451</color>
+    <color name="white500">#2E3C55</color>
+    <color name="white400">#3D5071</color>
+</resources>

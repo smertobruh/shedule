@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:color="@color/inputbackground" android:width="3dp"> </stroke>
+    <solid android:color="@color/inputbackground"> </solid>
+    <size android:width="180dp" android:height="60dp"> </size>
+    <corners android:radius="16dp"> </corners>
+</shape>
